@@ -1,2 +1,2 @@
 # wiki-test
-Github wiki feature testing
+Repo temporal para pruebas de wiki.
